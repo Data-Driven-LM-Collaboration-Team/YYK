@@ -10,7 +10,7 @@ The room has dark gray flooring. Inside, there is a bed adorned with six throw p
 
 2.优化框架性能测试 
 
-- 向量生成
+- 生成场景中实例与实例间关系的向量矩阵
   
 - 性能测试
 
